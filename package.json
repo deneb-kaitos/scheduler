@@ -23,21 +23,21 @@
   },
   "homepage": "https://github.com/deneb-kaitos/scheduler/issues#readme",
   "devDependencies": {
-    "@babel/core": "^7.20.12",
-    "@babel/eslint-parser": "^7.19.1",
+    "@babel/core": "^7.21.8",
+    "@babel/eslint-parser": "^7.21.8",
     "@babel/eslint-plugin": "^7.19.1",
-    "@babel/preset-env": "^7.20.2",
-    "eslint": "^8.31.0",
+    "@babel/preset-env": "^7.21.5",
+    "eslint": "^8.41.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-import-resolver-node": "^0.3.6",
-    "eslint-module-utils": "^2.7.4",
+    "eslint-import-resolver-node": "^0.3.7",
+    "eslint-module-utils": "^2.8.0",
     "eslint-plugin-chai-friendly": "^0.7.2",
     "eslint-plugin-es": "^4.1.0",
-    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-node": "^11.1.0",
     "eslint-rule-composer": "^0.3.0",
-    "eslint-scope": "^7.1.1",
+    "eslint-scope": "^7.2.0",
     "eslint-utils": "^3.0.0",
-    "eslint-visitor-keys": "^3.3.0"
+    "eslint-visitor-keys": "^3.4.1"
   }
 }
